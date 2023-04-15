@@ -1,4 +1,5 @@
 Day la file week1.txt
 Thuoc brand week1 ma thoi
 1234
+255
 55
