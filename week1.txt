@@ -1,4 +1,4 @@
 Day la file week1.txt
 Thuoc brand week1 ma thoi
-aaaaa
-hello
+1234
+aaaa
